@@ -19,3 +19,5 @@ export namespace Result {
         error
     }
 }
+
+export default { Result };

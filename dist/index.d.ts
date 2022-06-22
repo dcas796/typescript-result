@@ -11,3 +11,7 @@ export declare namespace Result {
         error = 1
     }
 }
+declare const _default: {
+    Result: typeof Result;
+};
+export default _default;
