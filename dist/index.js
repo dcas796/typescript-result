@@ -23,4 +23,4 @@ exports.Result = Result;
     })(Type = Result.Type || (Result.Type = {}));
 })(Result = exports.Result || (exports.Result = {}));
 exports.Result = Result;
-exports.default = { Result: Result };
+exports.default = Result;
